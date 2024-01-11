@@ -1,6 +1,6 @@
 ## Hi there! 
 
-My name is [Your Name] and I'm a passionate aspiring developer embarking on a learning journey to become a **Full-Stack MLOps Data Scientist**.  While I'm still at the starting line, I'm eagerly acquiring skills and building exciting projects that showcase my progress. ️
+My name is Chandan Kumar and I'm a passionate aspiring developer embarking on a learning journey to become a **Full-Stack MLOps Data Scientist**.  While I'm still at the starting line, I'm eagerly acquiring skills and building exciting projects that showcase my progress. ️
 
 **Currently, I'm focused on:**
 
