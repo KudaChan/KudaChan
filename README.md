@@ -5,11 +5,15 @@ My name is Chandan Kumar and I'm a passionate aspiring developer embarking on a 
 **Currently, I'm focused on:**
 
 - **Software Development:** 
-    - Honing my skills in **C, C++, Python, Java, and Rust**, aiming to become versatile across various languages and projects.
-- **Web Technologies:** 
-    - Building experience with frameworks like **ASP.NET, Node.js, and web-based UI development** to craft user-friendly applications.
+    - Honing my skills in **C, C++**, aiming to become versatile across various languages and projects.
 - **Database Management:** 
     - Mastering **SQL Server** and exploring other database technologies to handle data efficiently.
+
+**My Future Goals:**
+- **Programming Language:**
+    - Aiming to learn **Python, Java, and Rust**.
+- **Web Technologies:** 
+    - Building experience with frameworks like **ASP.NET, Node.js, and web-based UI development** to craft user-friendly applications.
 - **Machine Learning & Data Science:** 
     - Diving into the fascinating world of **MLOps and Data Science**, to extract insights, automate processes, and build intelligent models.
 
