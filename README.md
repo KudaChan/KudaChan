@@ -1,24 +1,46 @@
-## Hi there! 
+## Hi there, I'm Chandan Kumar! 👋
 
-My name is Chandan Kumar and I'm a passionate aspiring developer embarking on a learning journey to become a **Full-Stack MLOps Data Scientist**.  While I'm still at the starting line, I'm eagerly acquiring skills and building exciting projects that showcase my progress. ️
+### Aspiring .NET Developer | AI Enthusiast | Computer Science Student
 
-**Currently, I'm focused on:**
+Welcome to my GitHub profile! I'm currently pursuing a B.Tech in Computer Science and Engineering at Jaypee University of Information Technology (JUIT), with an expected graduation date of June 2025. I am passionate about developing efficient and scalable software solutions using C# and .NET, and I have a strong interest in artificial intelligence and database management.
 
-- **Software Development:** 
-    - Honing my skills in **Java, C#**, aiming to become proficient in Java and doing some projects in C#.
-- **Database Management:** 
-    - Mastering **SQL Server** and exploring other database technologies to handle data efficiently.
+### 🌟 Professional Summary
+- **.NET Development:** Strong foundation in C# and experience with the .NET Framework.
+- **AI Projects:** Developed AI-based solutions such as a crop recommendation system and medicinal plant detection model.
+- **Database Management:** Proficient in SQL and PostgreSQL, with hands-on experience in designing relational database systems.
 
-**My Future Goals:**
-- **Programming Language:**
-    - Aiming to learn **Python, C/C++, and Rust**.
-- **Web Technologies:** 
-    - Building experience with frameworks like **ASP.NET, Node.js, and web-based UI development** to craft user-friendly applications.
-- **Machine Learning & Data Science:** 
-    - Diving into the fascinating world of **MLOps and Data Science**, to extract insights, automate processes, and build intelligent models.
+### 📚 Education
+- **B.Tech in Computer Science and Engineering**
+  - **Institution:** Jaypee University of Information Technology (JUIT), Himachal Pradesh
+  - **Expected Graduation:** June 2025
 
-**I believe in the power of continuous learning and hands-on experimentation.**  My GitHub profile documents my projects, from my initial steps in console applications to future endeavors in web development, MLOps pipelines, and data science experiments.
+### 💻 Skills
+- **Programming Languages:** C# (***), SQL (***), Shell Scripting (***), Python (**), C (**)
+- **Data Structures & Algorithms:** Basic data structures and algorithms
+- **Web Development:** .NET Framework (learning)
+- **Database:** PostgreSQL (Basics), Relational Database
+- **Version Control:** Git, GitHub
+- **Tools and Technologies:** Visual Studio, VS Code, Gitpod, Bash, Git Bash, Nano, ML.NET
+- **AI Tools:** GitHub Copilot, Chat GPT, Gemini Copilot, Tabnine, CodiumAI
+- **Languages:** English (Intermediate), Hindi (Fluent), Maithili (Fluent)
 
-**Feel free to browse my repositories, leave feedback, and join me on this learning adventure!**  My ultimate goal is to contribute to meaningful projects and solve real-world problems using the powerful combination of software development, data science, and AI. 
+### 🛠️ Projects
+- **[Relational Database System](https://github.com/KudaChan/Portfolio/tree/main/RDBMS_BASH):** Designed and implemented a relational database system for efficient data management using PostgreSQL and SQL scripting.
+- **[AI-Based Crop Recommendation System](https://github.com/KudaChan/Portfolio/tree/main/AI_ML_DS/Crop-Recommendation-Project):** Developed a system to recommend optimal crops based on soil and weather conditions using ML.NET and C#.
+- **[AI-Based Medicinal Plant Detection](https://github.com/KudaChan/Portfolio/tree/main/AI_ML_DS/Minor_Project_Ai_Plant_Recognition):** Created a model to detect medicinal plants from images using TensorFlow and Python, integrated into a .NET application using C#.
 
-**Stay tuned for more updates and exciting projects! ✨**
+### 📜 Certifications
+- **[Foundational C# with Microsoft](https://www.freecodecamp.org/certification/fcc0726e177-6941-40b9-b159-05ee056fc40f/foundational-c-sharp-with-microsoft)**
+  - Issued by freeCodeCamp, May 2024
+- **[Relational Database](https://www.freecodecamp.org/certification/fcc0726e177-6941-40b9-b159-05ee056fc40f/relational-database-v8)**
+  - Issued by freeCodeCamp, June 2024
+
+### 📈 Continuous Learning
+- Active participant in tech conferences such as the Microsoft Build Conference.
+- Engaged in continuous learning through online courses and workshops on software development and AI tools.
+- Check out my learning journey on [Microsoft Learn](https://learn.microsoft.com/en-gb/users/chandankumar-5675/).
+
+### 📫 Let's Connect!
+- **Email:** [kumarnchandan05@gmail.com](mailto:kumarnchandan05@gmail.com)
+- **LinkedIn:** [Chandan Kumar](https://www.linkedin.com/in/chandan-kumarn-972b54224/)
+- **GitHub:** [KudaChan](https://github.com/KudaChan)
