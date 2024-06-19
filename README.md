@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm currently pursuing a B.Tech in Computer Science and Engineering at Jaypee University of Information Technology (JUIT), with an expected graduation date of June 2025. I am passionate about developing efficient and scalable software solutions using C# and .NET, and I have a strong interest in artificial intelligence and database management.
 
 ### 🌟 Professional Summary
-- **.NET Development:** Strong foundation in C# and experience with the .NET Framework.
+- **.NET Development:** Strong foundation in C# and learning the .NET Framework.
 - **AI Projects:** Developed AI-based solutions such as a crop recommendation system and medicinal plant detection model.
 - **Database Management:** Proficient in SQL and PostgreSQL, with hands-on experience in designing relational database systems.
 
