@@ -56,3 +56,4 @@ Designed and implemented a relational database system for efficient data managem
 
 ---
 
+[Feel free to check my other work as well](https://github.com/KudaChan?tab=repositories)
