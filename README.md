@@ -1,6 +1,6 @@
 ## Hi there, I'm Chandan Kumar! 👋
 
-### Aspiring .NET Developer | AI Enthusiast | Computer Science Student
+### Full-Stack Web Developer | Learning Blockchain | AI Enthusiast
 
 ## 🚀 About Me
 
