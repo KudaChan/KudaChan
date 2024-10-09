@@ -4,47 +4,73 @@
 
 ## 🚀 About Me
 
-I am a passionate software developer currently pursuing my B.Tech in Computer Science and Engineering at Jaypee University of Information Technology (JUIT). With a strong foundation in C# and experience in developing scalable and efficient software solutions, I am eager to contribute to real-world projects and learn from industry experts.
+Full-Stack Web Developer with hands-on experience in developing scalable web applications and managing database integrations. Proficient in modern Frontend and Backend technologies including Next.js, Nest.js, TypeScript, PostgreSQL, and MongoDB.
+
+Actively expanding knowledge in software development and AI tools through continuous learning and participation in tech events.
 
 ---
 
 ## 🔧 Skills
 
-- **Programming Languages**: C#, HTML, CSS, JavaScript, SQL, Shell Scripting, Python, C
-- **Frameworks and Libraries**: .NET Framework, TensorFlow, ML.NET
-- **Tools and Technologies**: Visual Studio, VS Code, Git, GitHub, Gitpod, Bash, Nano
-- **Database / Database Management Systems**: PostgreSQL, Relational Database Systems
-- **AI Tools**: GitHub Copilot, Chat GPT, Gemini Copilot, Tabnine, CodiumAI
-- **Languages**: English (Intermediate), Hindi (Fluent), Maithili (Fluent)
+- **Programming Languages:** HTML, CSS, TypeScript/JavaScript, SQL, C, C#
+- **Web Frameworks:** React, Next.js, Node.js, Nest.js
+- **Databases:** PostgreSQL, MongoDB
+- **Version Control:** Git, GitHub
+- **AI Tools:** GitHub Copilot, Chat GPT, Gemini, Tabnine, Codium AI, BlackBox
+- **Languages:** English (Intermediate), Hindi (Fluent), Maithili (Fluent)
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Experience
 
-- Advanced .NET Framework
-- Web Development
-- System Design and Architecture
+**Full-Stack Web Developer (Internship)**  
+*Aatvis Systems — Delhi, India*  
+*July 2024 – Present*
+
+- Collaborated with the core team to develop and enhance client websites, focusing on both frontend and backend components.
+- Integrated databases and handled complex queries using PostgreSQL, ensuring seamless data flow between the frontend and backend.
+- Actively debugged and resolved code issues, improving overall website performance and functionality.
+- Submitted weekly progress reports to senior developers, contributing to project management and timeline adherence.
+
+### Key Projects:
+- **Forms with Integrated Database:** [HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL]
+- **Full-Stack E-Commerce Website:** [Next.js, Nest.js, Tailwind CSS, TypeScript, MongoDB]
+- **Frontend Prototype:** Slowlife Store Prototype
 
 ---
 
 ## 📂 Projects
 
-### [AI-Based Crop Recommendation System](https://github.com/KudaChan/Portfolio/tree/main/AI_ML_DS/Crop-Recommendation-Project)
-Developed a system to recommend optimal crops based on soil and weather conditions using ML.NET and C#. Managed database interactions with SQL and PostgreSQL.
+**Relational Database System**  
+  *Technologies:* Bash, Git Bash, SQL, Shell Scripting, Nano, PostgreSQL, Git  
+  *Description:* Designed and implemented a relational database system for efficient data management using PostgreSQL and SQL scripting.  
+  [GitHub Link](https://github.com/KudaChan/Portfolio/tree/main/RDBMS_BASH)
 
-### [AI-Based Medicinal Plant Detection](https://github.com/KudaChan/Portfolio/tree/main/AI_ML_DS/Minor_Project_Ai_Plant_Recognition)
-Created a model to detect medicinal plants from images using TensorFlow and Python. Integrated the model into a .NET application using C#.
+- **AI-Based Crop Recommendation Model**  
+  *Technologies:* ML.NET, C#, SQL, Git, GitHub, PostgreSQL  
+  *Description:* Developed a system to recommend optimal crops based on soil and weather conditions using ML.NET and C#. Managed database interactions with SQL and PostgreSQL.  
+  [GitHub Link](https://github.com/KudaChan/Portfolio/tree/main/AI_ML_DS/Crop-Recommendation-Project)
 
-### [Relational Database System](https://github.com/KudaChan/Portfolio/tree/main/RDBMS_BASH)
-Designed and implemented a relational database system for efficient data management using PostgreSQL and SQL scripting.
+- **Front-End Web-Dev Project**  
+  *Technologies:* React, Vite, Next.js, Tailwind, TypeScript, JavaScript, Three.js, Gsap  
+  - Apple iPhone Website Clone: [Live Demo](https://web-apple-clone-tau.vercel.app/) | [GitHub Link](https://github.com/KudaChan/web-Apple-Clone)
+  - Nike Website Clone: [Live Demo](https://web-nike-clone-eight.vercel.app/) | [GitHub Link](https://github.com/KudaChan/web-nike-clone)
 
 ---
 
 ## 📜 Certifications
 
-- [Responsive Web Design](https://www.freecodecamp.org/certification/fcc0726e177-6941-40b9-b159-05ee056fc40f/responsive-web-design)
-- [Relational Database](https://www.freecodecamp.org/certification/fcc0726e177-6941-40b9-b159-05ee056fc40f/relational-database-v8)
-- [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/fcc0726e177-6941-40b9-b159-05ee056fc40f/foundational-c-sharp-with-microsoft)
+- **Relational Database**  
+  Issued by freeCodeCamp, June 2024  
+  [Credential](https://www.freecodecamp.org/certification/fcc0726e177-6941-40b9-b159-05ee056fc40f/relational-database-v8)
+
+- **Back End Development and APIs**  
+  Issued by freeCodeCamp, July 2024  
+  [Credential](https://www.freecodecamp.org/certification/fcc0726e177-6941-40b9-b159-05ee056fc40f/back-end-development-and-apis)
+
+- **Responsive Web Design**  
+  Issued by freeCodeCamp, June 2024  
+  [Credential](https://www.freecodecamp.org/certification/fcc0726e177-6941-40b9-b159-05ee056fc40f/responsive-web-design)
 
 ---
 
