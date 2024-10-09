@@ -41,7 +41,7 @@ Actively expanding knowledge in software development and AI tools through contin
 
 ## 📂 Projects
 
-**Relational Database System**  
+- **Relational Database System**  
   *Technologies:* Bash, Git Bash, SQL, Shell Scripting, Nano, PostgreSQL, Git  
   *Description:* Designed and implemented a relational database system for efficient data management using PostgreSQL and SQL scripting.  
   [GitHub Link](https://github.com/KudaChan/Portfolio/tree/main/RDBMS_BASH)
