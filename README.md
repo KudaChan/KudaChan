@@ -35,7 +35,7 @@ Actively expanding knowledge in software development and AI tools through contin
 ### Key Projects:
 - **Forms with Integrated Database:** [HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL]
 - **Full-Stack E-Commerce Website:** [Next.js, Nest.js, Tailwind CSS, TypeScript, MongoDB]
-- **Frontend Prototype:** Slowlife Store Prototype
+  **Frontend Prototype:** [Live Demo](https://slowlife-store.vercel.app/)
 
 ---
 
