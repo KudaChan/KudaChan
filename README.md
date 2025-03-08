@@ -13,10 +13,9 @@ Actively expanding knowledge in software development and AI tools through contin
 ## 🔧 Skills
 
 - **Programming Languages:** HTML, CSS, TypeScript/JavaScript, SQL, C, C#
-- **Web Frameworks:** React, Next.js, Node.js, Nest.js
+- **Tools & Frameworks:** React, Next.js, Node.js, Nest.js, Kafka, WebSockets, Docker
 - **Databases:** PostgreSQL, MongoDB
 - **Version Control:** Git, GitHub
-- **AI Tools:** GitHub Copilot, Chat GPT, Gemini, Tabnine, Codium AI, BlackBox
 - **Languages:** English (Intermediate), Hindi (Fluent), Maithili (Fluent)
 
 ---
@@ -37,25 +36,6 @@ Actively expanding knowledge in software development and AI tools through contin
 - **Full-Stack E-Commerce Website:** [Next.js, Nest.js, Tailwind CSS, TypeScript, MongoDB]
 
   **Frontend Prototype:** [Live Demo](https://slowlife-store.vercel.app/)
-
----
-
-## 📂 Projects
-
-- **Relational Database System**  
-  *Technologies:* Bash, Git Bash, SQL, Shell Scripting, Nano, PostgreSQL, Git  
-  *Description:* Designed and implemented a relational database system for efficient data management using PostgreSQL and SQL scripting.  
-  [GitHub Link](https://github.com/KudaChan/Portfolio/tree/main/RDBMS_BASH)
-
-- **AI-Based Crop Recommendation Model**  
-  *Technologies:* ML.NET, C#, SQL, Git, GitHub, PostgreSQL  
-  *Description:* Developed a system to recommend optimal crops based on soil and weather conditions using ML.NET and C#. Managed database interactions with SQL and PostgreSQL.  
-  [GitHub Link](https://github.com/KudaChan/Portfolio/tree/main/AI_ML_DS/Crop-Recommendation-Project)
-
-- **Front-End Web-Dev Project**  
-  *Technologies:* React, Vite, Next.js, Tailwind, TypeScript, JavaScript, Three.js, Gsap  
-  - Apple iPhone Website Clone: [Live Demo](https://web-apple-clone-tau.vercel.app/) | [GitHub Link](https://github.com/KudaChan/web-Apple-Clone)
-  - Nike Website Clone: [Live Demo](https://web-nike-clone-eight.vercel.app/) | [GitHub Link](https://github.com/KudaChan/web-nike-clone)
 
 ---
 
