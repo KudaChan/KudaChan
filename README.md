@@ -20,25 +20,6 @@ Actively expanding knowledge in software development and AI tools through contin
 
 ---
 
-## 🌱 Experience
-
-**Full-Stack Web Developer (Internship)**  
-*Aatvis Systems — Delhi, India*  
-*July 2024 – Present*
-
-- Collaborated with the core team to develop and enhance client websites, focusing on both frontend and backend components.
-- Integrated databases and handled complex queries using PostgreSQL, ensuring seamless data flow between the frontend and backend.
-- Actively debugged and resolved code issues, improving overall website performance and functionality.
-- Submitted weekly progress reports to senior developers, contributing to project management and timeline adherence.
-
-### Key Projects:
-- **Forms with Integrated Database:** [HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL]
-- **Full-Stack E-Commerce Website:** [Next.js, Nest.js, Tailwind CSS, TypeScript, MongoDB]
-
-  **Frontend Prototype:** [Live Demo](https://slowlife-store.vercel.app/)
-
----
-
 ## 📜 Certifications
 
 - **Relational Database**  
