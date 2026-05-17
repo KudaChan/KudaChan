@@ -6,6 +6,7 @@
 ## Legend
 - 📘 **Book** — from the repo
 - 🌐 **Free** — online resource
+- 🛒 **Buy** — not in repo, purchase separately
 - 🎯 **Specialist** — pick only if it matches your goal
 - ⭐ **Core** — must read
 ---
@@ -51,6 +52,7 @@ You can explain modules vs GOPATH, use `errors.Is` / `errors.As`, and write a ba
 | Ultimate Go Notebook — William Kennedy | 📘 Book | ⭐ Read alongside | Deep on memory model, design philosophy, how Go actually works. One of the best books in the repo. |
 | [Dave Cheney's Blog](https://dave.cheney.net) | 🌐 Free | Dip in | Practical deep dives on errors, interfaces, and idiomatic patterns. Read between chapters, not in one sitting. |
 | Data Structures & Algorithms in Go — Hemant Jain | 📘 Book | ⭐ After LGwT | Read this after finishing Learn Go with Tests. You'll know the language well enough to focus purely on the algorithms, not the syntax. In the repo. |
+| The Pragmatic Programmer — Hunt & Thomas | 🛒 Buy | Dip in anytime | Language-agnostic mindset book. Short, actionable lessons on thinking like an engineer. Read between chapters when you want a mental break from Go-specific content. |
  
 ### 🎯 Milestone
 Rewrite an old Go project using proper interfaces, table-driven tests, and wrapped errors. Implement 3–4 classic data structures (linked list, stack, binary tree, hash map) from scratch in Go.
@@ -81,7 +83,9 @@ A deployed web app with auth, PostgreSQL, middleware, and integration tests.
 |---|---|---|---|
 | Concurrency in Go — Katherine Cox-Buday | 📘 Book | ⭐ Start here | The definitive concurrency book. Goroutines, channels, select, pipelines, patterns. **Not in the repo — buy it.** |
 | Let's Go Further! — Alex Edwards | 📘 Book | ⭐ | Advanced APIs, rate limiting, CORS, graceful shutdown, deployment. Direct sequel to Let's Go! **Not in the repo — buy it.** |
-| Go with Domain — Laszczak & Smólka | 📘 Book | ⭐ | Domain-driven design in Go. Senior-level architecture thinking. In the repo. Also [free online](https://threedots.tech/go-with-the-domain). |
+| Domain-Driven Design with Golang — Matt Boyle | 🛒 Buy | ⭐ | The best Go-specific architecture book. Bounded context, aggregates, ubiquitous language — all applied in real Go code. Builds two DDD systems from scratch. Author is a Cloudflare engineer. |
+| Go with Domain — Laszczak & Smólka | 📘 Book | Supplement | Free companion to Boyle's book. More abstract and theoretical — read after DDD with Golang if you want more depth. Also [free online](https://threedots.tech/go-with-the-domain). |
+| Designing Data-Intensive Applications — Martin Kleppmann | 🛒 Buy | ⭐ | The bible of distributed systems. Replication, partitioning, consistency, stream processing. Language-agnostic but essential for any serious backend Go work. Read after Let's Go Further! |
 | Go Faster — Ollie Phillips | 📘 Book | ⭐ | Performance, benchmarking, pprof, memory optimization. In the repo. |
 | Production Go — Schaaf & Smith | 📘 Book | ⭐ | Observability, deployment, reliability patterns. Read before launching anything serious. In the repo. |
  
@@ -139,9 +143,9 @@ You can explain the Go scheduler, GC, and escape analysis clearly to someone els
  
 ```
 Stage 1B  →  Go by Example (skim) + Effective Go + 3 blog posts
-Stage 2   →  Learn Go with Tests + Ultimate Go Notebook + Dave Cheney → DSA in Go (after LGwT)
+Stage 2   →  Learn Go with Tests + Ultimate Go Notebook + Dave Cheney → DSA in Go (after LGwT) + Pragmatic Programmer (dip in)
 Stage 3   →  Let's Go! + Go Web Examples (as reference)
-Stage 4   →  Concurrency in Go → Let's Go Further! → Go with Domain → Go Faster → Production Go
+Stage 4   →  Concurrency in Go → Let's Go Further! → DDD with Golang → DDIA → Go Faster → Production Go
 Stage 4S  →  Pick ONE specialist book based on your goal
 Stage 5   →  Interpreter + Compiler (Thorsten Ball) → stdlib source → GopherCon + Go Blog
 ```
@@ -149,4 +153,3 @@ Stage 5   →  Interpreter + Compiler (Thorsten Ball) → stdlib source → Goph
 ---
  
 *Roadmap built May 2026. Books sourced from [KudaChan/GO-Books](https://github.com/KudaChan/GO-Books) repo.*
- 
